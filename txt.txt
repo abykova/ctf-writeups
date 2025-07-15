@@ -1,0 +1,21 @@
+ctf-writeups/
+├── README.md
+├── HTB/
+│   ├── easy/
+│   │   ├── machine-name/
+│   │   │   ├── README.md
+│   │   │   └── screenshots/
+│   ├── medium/
+│   ├── hard/
+├── TryHackMe/
+│   ├── room-name/
+│   │   ├── README.md
+│   │   └── notes.txt
+├── PortSwigger/
+│   ├── SQL-Injection/
+│   │   └── challenge-name.md
+│   ├── XSS/
+│   ├── Business-Logic/
+├── assets/  # общие изображения или схемы
+└── templates/
+    └── writeup-template.md
